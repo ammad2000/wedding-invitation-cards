@@ -62,7 +62,7 @@ const MARKUP = `
 
     <section class="reveal">
       <div class="kicker">Nikah Ceremony</div>
-      <p class="invite-line">With the blessings of Allah, Mr & Mrs. Abdus Salam Arif cordially invite you to the Nikah of their beloved son</p>
+      <p class="invite-line">With the blessings of Allah, <span class="host-name">Mr &amp; Mrs. Abdus Salam Arif</span> cordially invite you to the Nikah of their beloved son</p>
       <div class="names">
         <div class="name gold-text">Ammad Arif</div>
         <span class="amp">with</span>
